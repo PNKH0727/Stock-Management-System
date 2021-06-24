@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>inventory-management-system.jpg</file>
+        <file>301-x-251-png-3kb-inventory-control-icon-.png</file>
+        <file>login-rounded-right.png</file>
+        <file>register-icon.png</file>
+        <file>Inventory-Management.png</file>
+        <file>comment_review_product_discussion_item_write_ask_chat-512.png</file>
+        <file>delete-item-1727100-1469111.png</file>
+        <file>replace-item-1-885312.png</file>
+        <file>add-512.png</file>
+        <file>Label-512.png</file>
+        <file>download.png</file>
+        <file>users.png</file>
+        <file>63767-200.png</file>
+    </qresource>
+</RCC>
